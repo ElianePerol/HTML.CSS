@@ -1,0 +1,4 @@
+/* CSS-Listes-Exercice-2 */
+ul   {
+    list-style-type : upper-roman; /* Les items de la liste ordonnée sont précédé de chiffres romains en majuscule */
+}

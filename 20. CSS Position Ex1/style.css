@@ -1,0 +1,15 @@
+/* CSS-Position-Exercice-1 */
+.contenu 
+{
+    position:static;
+}
+
+.premier
+{
+    position: fixed;
+}
+
+#paragraphe2
+{
+    position: absolute;
+}

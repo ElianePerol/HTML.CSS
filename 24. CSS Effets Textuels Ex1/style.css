@@ -1,0 +1,9 @@
+/* CSS-Effets-textuels-Exercice-1 */
+p
+{
+    max-width: 300px;
+    border: 1px solid black;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: clip;  
+}
